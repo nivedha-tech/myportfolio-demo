@@ -9,7 +9,7 @@ const education = [
     degree: "Bachelor of Computer Applications(BCA)",
     institution: "Stella Maris College",
     duration: "2022 - 2025",
-    description: "Studying core subjects like programming, database systems, web development, and software engineering, with practical exposure to real-world applications in IT.",
+    description: "Learned core subjects like programming, database systems, web development, and software engineering, with practical exposure to real-world applications in IT.",
     image: "/assets/smc.png",
     cgpa: "67%"
   },
