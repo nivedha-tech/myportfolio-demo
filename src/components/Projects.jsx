@@ -37,7 +37,7 @@ const programmingProjects = [
     image: '/assets/c-logo.png',
   },
   {
-    title: 'Instant Pooling System',
+    title: 'Two Wheeler & Four Wheeler Parking System',
     description: 'Developed a Java-based two-wheeler and four-wheeler parking system with secure login and user authentication. Implemented parking hour tracking and automated bill generation for efficient parking management.',
     technologies: ['OOPS Concept', 'Exception Handling', 'Constructors'],
     image: '/assets/java-logo.gif',
